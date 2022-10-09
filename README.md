@@ -7,7 +7,7 @@
 
 - 📫 você me acha através do e-mail **otavi8.fernando@gmail.com**
 
-- 📄 Comecei minha carreira profissional na parte operacional da logística aonde consegui uma base solida em processos operacionais, em seguida foquei em evoluir e desenvolver soluções na empresa aonde trabalhava, o que me fez conhecer a área em que estou e sou apaixonado até hoje: a Tecnologia ! [https://www.linkedin.com/in/otavio-fernando-2390111aa/](https://www.linkedin.com/in/otavio-fernando-2390111aa/)
+- 📄 Comecei minha carreira profissional na parte operacional da logística aonde consegui uma base solida em processos operacionais, em seguida foquei em evoluir e desenvolver soluções na empresa aonde trabalhava, o que me fez conhecer a área em que estou e sou apaixonado até hoje: a Tecnologia ! 
 
 ##
 
