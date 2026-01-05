@@ -1,13 +1,25 @@
-<h1 align="center">Oi 👋, Eu sou Otavio Fernando</h1>
-<h3 align="center">Apaixonado por ciência e analise de dados no mundo digital</h3>
-
-- 🌱 Atualmente estou aprendendo **Python e SQL**
-
-- 💬 Me pergunte sobre **SQL,Power BI,Excel e Python**
-
-- 📫 você me acha através do e-mail **otavi8.fernando@gmail.com**
-
-- 📄 Comecei minha carreira profissional na parte operacional da logística aonde consegui uma base solida em processos operacionais, em seguida foquei em evoluir e desenvolver soluções na empresa aonde trabalhava, o que me fez conhecer a área em que estou e sou apaixonado até hoje: a Tecnologia ❤! 
+@dataclass
+class AboutMe:
+  
+    name: str = "Otavio Fernando Silvino Inacio"
+    
+    profession: str = "Data & Analytics Professional"
+    
+    preferred_tech_stack: List[str] = field(
+        default_factory=lambda: [
+            "Python", "PySpark", "SQL", "DBT", 
+            "DuckDB", "ETL/ELT", "Apache Airflow",
+            "Terraform", "Docker", "Kubernetes"
+        ]
+    )
+    
+    applied_in: List[str] = field(
+        default_factory=lambda: [
+            "Analytics Engineering",
+            "Data Engineering",
+            "Workflow Automation"
+        ]
+    )
 
 ##
 
