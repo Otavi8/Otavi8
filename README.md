@@ -1,4 +1,3 @@
-@dataclass
 class AboutMe:
   
     name: str = "Otavio Fernando Silvino Inacio"
