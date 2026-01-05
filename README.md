@@ -22,6 +22,12 @@ class AboutMe:
 
 ##
 
+Engenheiro de Dados & Analytics com experiência na construção de arquiteturas eficientes, governáveis e escaláveis, com foco em performance, rastreabilidade e uso inteligente de recursos. Atuação no desenvolvimento de soluções resilientes por meio de engenharia orientada a dados, priorizando impacto e clareza técnica acima de ferramentas específicas. Foco na construção de pipelines e arquiteturas analíticas que garantem confiabilidade, rastreabilidade e suporte consistente à tomada de decisão. Aberto a projetos de alto impacto, com foco em engenharia bem feita, escala e geração de valor sustentável.
+
+𝗗𝗔𝗧𝗔-𝗗𝗥𝗜𝗩𝗘𝗡 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚, 𝗡𝗢𝗧 𝗧𝗢𝗢𝗟-𝗗𝗥𝗜𝗩𝗘𝗡    
+
+##
+
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/otavio-fernando-2390111aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/otavio-fernando-2390111aa/" height="30" width="40" /></a>
